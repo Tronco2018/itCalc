@@ -6,7 +6,11 @@ body{
 .nbitCalc{
 	border-color:white;
 	border-radius:6px;
-	border-width:10px;
+	border-style:solid;
+	border-width:2px;
+	margin:10px;
+	padding:5px;
+	width:200px;
 }
 .hrOne{
 	height:3px;
@@ -16,4 +20,52 @@ body{
 	text-align:left;
 	align-items:left;
 }
+div{
+}
+.boxes{
+	display:flex;
+}
+.hz{
+	align-items:center;
+	border-color:white;
+	border-radius:6px;
+	border-style:solid;
+	border-width:2px;
+	margin:10px;
+	padding:5px;
+	width:200px;
+}
+button{
+	text-align:center;
+	align-items:center;
+	background-color:black;
+	color:white;
+	border-radius:3px;
+	font-weight:bold;
+}
+.title{
+	font-size:30px;
+	text-align:center;
 
+}
+.titleDiv{
+	display:flex;
+	align-items:center;
+	vertical-align:middle;
+}
+.imgBalla{
+	max-width:100px;
+	height:auto;
+}
+.immagine{
+	margin-right:30px;
+	border-color:white;
+	border-width:4px;
+	border-radius:5px;
+	border-style:solid;
+}
+.center{
+	margin:auto;
+	width:50%;
+	padding:10px;
+}
