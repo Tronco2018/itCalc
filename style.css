@@ -1,0 +1,19 @@
+body{
+	color:white;
+	background-color:black;
+	font-family: sans-serif;
+}
+.nbitCalc{
+	border-color:white;
+	border-radius:6px;
+	border-width:10px;
+}
+.hrOne{
+	height:3px;
+	background-color:grey;
+}
+.hrTwo{
+	text-align:left;
+	align-items:left;
+}
+
