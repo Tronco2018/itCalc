@@ -44,4 +44,12 @@ input{
 .resultLabels{
 	font-size:25px;
 	font-weight:bold;
+	text-align:center;
+}
+.resul{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	text-align:center;
+
 }
